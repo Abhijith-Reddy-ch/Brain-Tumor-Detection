@@ -1,0 +1,9 @@
+torch>=2.0.0
+torchvision>=0.15.0
+timm>=0.9.0
+numpy
+pillow
+scikit-learn
+albumentations==1.3.0
+opencv-python-headless
+tqdm
