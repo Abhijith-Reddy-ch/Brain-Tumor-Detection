@@ -218,4 +218,4 @@ It is intended **only for academic and research purposes**.
 - **Dataset:** Kaggle Brain Tumor MRI Dataset  
 - **Backbone Model:** EfficientNet (Tan & Le)  
 - **Explainability Method:** Grad-CAM (Selvaraju et al.)  
-- **Maintainer:** *Abhijith Reddy Ch*  
+- **Maintainer:** *Abhijith Reddy Ch & Sai Vikas*  
